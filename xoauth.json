@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/XeroAPI/xoauth/releases/download/v1.0.0/xoauth_1.0.0_windows_386.tar.gz",
+            "bin": [
+                "xoauth.exe"
+            ],
+            "hash": "5f44aa8149f7c12d7ce00f18dfa142fd368d62b6237a4ce2be16368bccf8696a"
+        },
+        "64bit": {
+            "url": "https://github.com/XeroAPI/xoauth/releases/download/v1.0.0/xoauth_1.0.0_windows_amd64.tar.gz",
+            "bin": [
+                "xoauth.exe"
+            ],
+            "hash": "cdf9f6610bb7f1863fb4c182ff1f2943959a4548673b47bb08415afe992cabc8"
+        }
+    },
+    "homepage": "https://github.com/XeroAPI/xoauth",
+    "license": "MIT",
+    "description": "xoath is a cross-platform tool for obtaining JWTs from OpenId Connect providers"
+}
